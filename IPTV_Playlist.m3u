@@ -4,7 +4,9 @@
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" T Sports
 http://198.195.239.50:8095/tsports/index.m3u8
 
-EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/TxPUulKGQh.jpg", Motu Patlu
+#--------------------CARTOON----------------------------
+
+EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/TxPUulKGQh.jpg"tvg-name="Motu Patlu" Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/YkXRQgC4-_.jpg", Tom & Jerry TV
